@@ -1,6 +1,6 @@
 ---
 blog:
-  publish: false
+  publish: true
   slug: optimize-first-commit-carefully-a-better-aws-cost-strategy
   title: "Optimize First, Commit Carefully: A Better AWS Cost Strategy"
   description: Why the standard AWS cost optimization playbook is technically right, but still needs business and architecture context before buying long-term commitments.
