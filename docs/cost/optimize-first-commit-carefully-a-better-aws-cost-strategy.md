@@ -4,7 +4,7 @@ blog:
   slug: optimize-first-commit-carefully-a-better-aws-cost-strategy
   title: "Optimize First, Commit Carefully: A Better AWS Cost Strategy"
   description: Why the standard AWS cost optimization playbook is technically right, but still needs business and architecture context before buying long-term commitments.
-  image: https://raw.githubusercontent.com/adi-param/aws/main/docs/cost/assets/optimize-first-commit-carefully-hero.png
+  image: assets/optimize-first-commit-carefully-hero.png
   date: 2026-06-29
   tags:
     - aws
@@ -16,7 +16,7 @@ blog:
 
 # Optimize First, Commit Carefully: A Better AWS Cost Strategy
 
-![Illustration showing AWS cost optimization leading to a careful commitment decision with future architecture options](https://raw.githubusercontent.com/adi-param/aws/main/docs/cost/assets/optimize-first-commit-carefully-hero.png)
+![Illustration showing AWS cost optimization leading to a careful commitment decision with future architecture options](assets/optimize-first-commit-carefully-hero.png)
 
 Most AWS cost optimization work follows a sensible order:
 
